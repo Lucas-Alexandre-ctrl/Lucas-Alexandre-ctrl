@@ -40,29 +40,6 @@ I enjoy building reliable software, designing maintainable architectures, automa
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔷 RondoHub
-
-Quality and operational monitoring platform focused on industrial processes.
-
-**Technologies**
-
-`Python` `FastAPI` `SQLAlchemy` `Oracle`  
-`Vue.js` `TypeScript` `Pinia`
-
-**Highlights**
-
-- REST API
-- Authentication and authorization
-- Quality parameter management
-- Operational data entry
-- NIR and quality monitoring
-- Automated E2E testing
-- Layered architecture
-
----
-
 ## 🧪 Engineering Practices
 
 ```text
